@@ -4,7 +4,7 @@ Materiały, ćwiczenia i quiz do laboratorium z testów jednostkowych w C++ (Goo
 
 ## Struktura
 
-- `lab/` — notebooki JupyterLab z materiałami i ćwiczeniami
+- `lab/` — notebooki JupyterLab z materiałami i ćwiczeniami; zacznij od `lab/_start.ipynb`
 
 ## Jak zacząć
 
