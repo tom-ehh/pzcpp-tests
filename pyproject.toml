@@ -1,0 +1,14 @@
+[project]
+name = "pzc"
+version = "0.1.0"
+description = "Testy jednostkowe w C++ (GoogleTest + gMock) — materiały, ćwiczenia i quiz do laboratorium"
+readme = "README.md"
+authors = [
+    { name = "Tomasz Idźkowski", email = "idzkowskit@student.agh.edu.pl" },
+    { name = "Kacper Kobieluch", email = "kkobieluch@student.agh.edu.pl" },
+    { name = "Maksymilian Koleśniak", email = "mkolesniak@student.agh.edu.pl" },
+]
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=7.3.0",
+]
