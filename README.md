@@ -55,6 +55,17 @@ notebooki w VS Code i wybrać jądro z `.venv`.
 
 Po uruchomieniu notebooka `_start.ipynb` wykonaj komórki w sekcji „Sprawdzenie środowiska”.
 
+## Oddawanie rozwiązań
+
+W katalogu repozytorium uruchom:
+
+```bash
+uv run pack.py
+```
+
+Skrypt tworzy `<nazwa-repozytorium>.tar.gz` z katalogami ćwiczeń (kod, testy, CMake — bez notebooków
+i plików build) i wypisuje spakowane pliki. Ten plik oddajesz prowadzącemu.
+
 ## Autorzy
 
 - Tomasz Idźkowski (idzkowskit@student.agh.edu.pl)

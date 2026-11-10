@@ -15,3 +15,6 @@ _deps/
 .idea/
 *.swp
 .DS_Store
+
+# Packed solutions (pack.py)
+/*.tar.gz
